@@ -68,7 +68,7 @@ export default function HeroSection() {
       <div className="flex flex-col md:flex-row items-center gap-10 w-full h-full justify-center">
         <div className="flex-shrink-0">
           <img
-            src="/assets/hero.jpg"
+            src="/assets/hero1.jpg"
             alt="profile"
             className="w-56 h-56 md:w-80 md:h-80 object-cover rounded-full shadow-lg"
           />
